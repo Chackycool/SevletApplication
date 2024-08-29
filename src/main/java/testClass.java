@@ -1,5 +1,6 @@
 public class testClass {
     String name = "add";
-    String name ="rdd"
-    String name4= "sdafdsgf";
+    String name1 ="rdd";
+    String name3 = "sad";
+    String name4= "dsds";
 }
